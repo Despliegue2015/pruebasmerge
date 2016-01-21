@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- comentario de p1 -->
+<!-- comentario de p1 y p2 -->
 <html>
 <head>
 	<meta charset="UTF-8">
